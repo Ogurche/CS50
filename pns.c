@@ -7,7 +7,7 @@ int main(void)
 { 
     int n;
     
-    n = get_int("Num: ");
+    n = get_int("Число: ");
      
     for (int i = 0; i<n ;i++)
     {
